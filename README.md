@@ -1,2 +1,13 @@
-# video-games-data-analysis
-Video Games data analysis, preprocessing, descriptive analysis, statisctical analysis, clusterization, classification done in NumPy, SciPy, Pandas and Scikit-learn
+# Video Games data analysis
+Analysis includes:
+* Preprocessing
+* Descriptive analysis
+* Statisctical analysis
+* Clusterization
+* Classification 
+
+Libraries used:
+* NumPy
+* SciPy
+* Pandas
+* Scikit-learn
