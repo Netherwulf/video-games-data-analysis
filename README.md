@@ -31,4 +31,10 @@
 
   <code>(your-venv)$ ipython kernel install --name "your-venv" --user</code>
   
+* List available kernels
+
+  <code>jupyter kernelspec list</code>
+ 
+* Check if kernel.json file in your kernel directory contains correct path to your virtualenv
+ 
 * You can now select the created kernel your-env when you start Jupyter
