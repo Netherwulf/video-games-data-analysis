@@ -33,7 +33,7 @@
   
 * List available kernels
 
-  <code>jupyter kernelspec list</code>
+  <code>(your-venv)$ jupyter kernelspec list</code>
  
 * Check if kernel.json file in your kernel directory contains correct path to your virtualenv
  
