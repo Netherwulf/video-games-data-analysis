@@ -35,6 +35,6 @@
 
   <code>(your-venv)$ jupyter kernelspec list</code>
  
-* Check if <code>kernel.json</code> file in your kernel directory contains correct path to your virtualenv
+* Check if <code>kernel.json</code> file in your kernel directory contains correct path to your virtualenv python executable (/path/to/your-env/bin/python3.6)
  
 * You can now select the created kernel your-env when you start Jupyter
